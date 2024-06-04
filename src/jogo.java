@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class jogo {
-    private static int numeroLimite = 100;
+    private static int numeroLimite = 50;
     private static int numeroSecreto = numeroAleatorio();
     private static int chute;
     private static int tentativas = 1;
